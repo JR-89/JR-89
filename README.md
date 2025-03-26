@@ -29,7 +29,6 @@ Script en Python que usa la API de OpenWeatherMap para mostrar el clima actual d
 
 - 📧 [jesusramosmejias5@gmail.com](mailto:jesusramosmejias5@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesús-ramos-mejías-68774a2b0/)
-- 💼 [Currículum actualizado](enlace si lo subes a GitHub o Drive)
 
 ---
 
